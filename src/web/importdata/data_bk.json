@@ -1,0 +1,12 @@
+{
+    "quotes": {
+        "1": {
+            "vi_category": "string",
+            "vi_value": "string",
+            "share_count": 0,
+            "author": "string",
+            "en_category": "string",
+            "en_value": "string"
+        }
+    }
+}
